@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"encoding/json"
-	"github.com/vjeantet/grok"
+	"github.com/securitym0nkey/grok"
 )
 
 func main() {
